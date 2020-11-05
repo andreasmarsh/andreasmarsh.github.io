@@ -2,9 +2,9 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/sunset.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+I am a third-year honors student at the University of Georgia studying Computer Science and have training and experience in both Java and C++ programming.
 
-Etc, etc, etc
+
