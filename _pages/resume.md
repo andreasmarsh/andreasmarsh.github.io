@@ -1,5 +1,5 @@
 ---
-layout: splah
+layout: splash
 permalink: /resume/
 title: "Resume"
 author_profile: true
