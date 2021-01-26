@@ -1,8 +1,8 @@
 ---
 title: "About"
 permalink: /about/
-header:
-image: "/images/blueSky.jpg"
+header: 
+  image: "/images/blueSky.jpg"
 ---
 
 ## Thanks for checking out my site!
