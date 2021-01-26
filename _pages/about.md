@@ -5,7 +5,6 @@ header:
 image: "/images/blueSky.jpg"
 ---
 
-
 ## Thanks for checking out my site!
 **Hopefully it allows you a glimpse into who I am and what I think about 😀**
 
