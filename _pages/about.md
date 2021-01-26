@@ -8,6 +8,7 @@ image: "/images/blueSky.jpg"
 
 ## Thanks for checking out my site!
 **Hopefully it allows you a glimpse into who I am**
+
 **and what I think about 😀**
 
 Formally, I am a third-year honors student at the University of Georgia studying Computer Science and have training and experience in Java, C++, and Swift programming.
