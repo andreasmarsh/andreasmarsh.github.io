@@ -1,8 +1,10 @@
 ---
-layout: hciPosts
+title: HCI
+layout: collection
 permalink: /hci/
-title: "HCI Term Project"
-author_profile: false
-header: 
-  image: "/images/mountain2.jpg"
+collection: hci
+entries_layout: grid
+classes: wide
 ---
+
+Sample document listing for the collection `_hci`.
