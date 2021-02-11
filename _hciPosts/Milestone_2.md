@@ -1,0 +1,13 @@
+---
+title: "Milestone 2"
+date: 2021-02-11
+tags: []
+header: 
+  image: "/images/marsLake.jpg"
+excerpt: "This is Milestone 2 for our CSCI 4800 Term Project"
+mathjax: "true"
+comments: "true"
+---
+## Milestone 2
+
+Blah, blah, blah
