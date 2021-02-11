@@ -171,6 +171,12 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  
+# Collections
+collections:
+  hci:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Sass/SCSS
@@ -239,7 +245,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
+    
 
 # Defaults
 defaults:
@@ -262,3 +268,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+  # _hci
+  - scope:
+      path: ""
+      type: hci
+    values:
+      layout: single
+      author_profile: false
+      share: true
