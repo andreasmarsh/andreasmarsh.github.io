@@ -1,4 +1,5 @@
 ---
+layout: hci
 title: "HCI Term Project"
 permalink: /hci/
 author_profile: false
