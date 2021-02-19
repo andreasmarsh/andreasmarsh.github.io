@@ -278,4 +278,4 @@ defaults:
       author_profile: false
       read_time: true
       share: true
-      related: true
+      related: false
