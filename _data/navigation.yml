@@ -8,7 +8,7 @@ main:
     url: /resume/
   - title: "HCI"
     url: /hci/
-    - title: "NMIX"
+  - title: "NMIX"
     url: /nmc/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
