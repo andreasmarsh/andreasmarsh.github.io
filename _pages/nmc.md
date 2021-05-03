@@ -13,6 +13,6 @@ The New Media Certificate (offered by the [New Media Institute](https://mynmi.ne
 
 By taking courses focused more on discovery than being told what to do, I learned how to apply my knowledge in new ways and think outside the box when tackling problems.
 
-Most of my work recently has been in designing and creating mobile applications. I have taken courses that discuss Human-Computer Interaction, iOS app development, Android app development, Data Structures, and much more. The know-how of my CS background paired with the creative thinking of New Media has given me the right skill set to create applications that are useful, are well designed, and, most importantly, are projects that I'm proud of. 
+Most of my work recently has been in designing and creating mobile applications. I have taken courses that discuss Human-Computer Interaction, iOS app development, Android app development, Data Structures, and much more. The know-how of my CS background paired with the creative thinking of New Media has given me the right skill set to create applications that are useful, well designed, and, most importantly, are projects that I'm proud of. 
 
-Feel free to explore below and check out the courses I’ve taken so far as part of my New Media journey! 😄
+Feel free to explore below and check out the courses I’ve taken so far as part of my New Media journey! 👇
