@@ -7,7 +7,7 @@ header:
   image: "/images/headerNMIX.jpg"
 ---
 
-## A Way of Connecting Code to the World Around Us - New Media
+# A Way of Connecting Code to the World Around Us
 
 The New Media Certificate (offered by the [New Media Institute](https://mynmi.net/about/)) has allowed me to expand my imagination when it comes to creating applications. Coming into the program as a third-year CS major, I had a lot of experience coding what my professors wanted but not what I wanted. I'd found success in fitting the mold but need a new challenge to test me in new ways. The New Media Institute was just that. By taking courses focused more on discovery than being told what to do, I learned how to apply my knowledge in new ways and think outside the box when tackling problems.
 
