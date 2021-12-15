@@ -1,0 +1,47 @@
+---
+title: "NMIX 4510"
+date: 2021-12-15
+tags: []
+header: 
+  image: "/images/sunsetSeattle.jpg"
+excerpt: "A glimpse into what I did in NMIX 4510, here's a hint - it's the development of a fish identification app for iOS!"
+mathjax: "true"
+---
+
+## Fishes of Georgia
+
+<iframe src="https://www.youtube.com/embed/a11K1M6WUE8" width="560" height="315" frameborder="0" allowfullscreen="true"> </iframe>
+
+NMIX 4510 was an experience unlike any other. I was for the first time tasked with letting my ideas and vision take center stage in the creation of a fish identification app for the state of Georgia. Partnered with a group of four other students, we were tasked by Bud Freeman, the Senior Public Service Associate and Director of the Georgia Museum of Natural History, to develop such an app adn to work on it incrementally throughout the entire semester. 
+
+I was assigned the role of lead developer, meaning that all the code that made up the app would be of my own creation. While at first this was slightly daunting, it turned out to be a lot of fun, and a great way to continue the growth of my skills as an iOS app developer. 
+
+Not only did I develop the app, but I also learned and practiced how to present an app. Every few weeks throughout the semester, each group would present their iteration of the project they were working on in front of the class and this presentation always ended with a live tech demo. So for the first time, rather than hiding behind a computer, I was standing before a crowd. This change of scenery allowed me to practice my public speaking skills and how to effectively communicate the benefit of a product I’d worked on. These skills are used all the time in the real world, so getting a head start on working them up was amazing.
+
+All around my experience with NMIX 4510 was a fantastic one. I’m proud of the product I ended up with and hope to see it continue to grow in the future. Be sure to check out the GitHub repo of the Fishes of Georgia app (formerly FindMyFish) below! 👇
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>  
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+</style>
+</head>
+<body>
+<br>
+<a href="https://github.com/andreasmarsh/FIshesOfGeorgia" target="_blank" class="btn">GitHub Repo!</a>
+<br>
+</body>
+</html> 
