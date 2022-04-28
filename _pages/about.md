@@ -8,7 +8,7 @@ header:
 ## Thanks for checking out my site!
 **Hopefully it allows you a glimpse into who I am and what I think about 😀**
 
-Formally, I am a third-year honors student at the University of Georgia studying Computer Science and have training and experience in Java, C++, and Swift programming.
+Formally, I am a newly graduated Software Engineer who recently graduated from the University of Georgia. I have training and experience in Java, C++, Swift, and Python programming, as well as, expierience with design tools like Adobe XD and Figma.
 
 I love coding and seeing my ideas come to life on a screen.
 
